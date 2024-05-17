@@ -102,6 +102,7 @@ Fail2ban по прежнему пуст
 ![alt text](https://github.com/mezhibo/Defender-network/blob/239a1162b10f4fb79607c99875a414b65532c5dd/IMG/34.jpg)
 
 *Вывод*
+
 Как вы видим, fail2ban отлично справляется с ролью IPS и блокирует попытки подбора пароля.
 
 
